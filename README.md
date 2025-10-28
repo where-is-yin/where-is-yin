@@ -1,7 +1,7 @@
 <h1 align="center">Hoi hoi, I'm Yin</h1>
 <h3 align="center">A passionate gamer and anime enthusiast in Computer Engineering</h3>
 
-- 🌱 I’m currently learning **C++ and Unity**
+- 🌱 I’m currently learning **C# and Unity**
 
 - 📫 How to reach me **yinleeassang@gmail.com**
 
